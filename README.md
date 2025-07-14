@@ -31,6 +31,7 @@ A visually appealing and interactive **Spotify Clone** built using **HTML, CSS, 
 - Each song shows title and artist.  
 - Play icon to start the song.
 
+
 ---
 
 ## 🛠️ Tech Stack

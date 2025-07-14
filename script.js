@@ -35,7 +35,7 @@ async function displayAlbums() {
         if (e.href.includes("/songs")) {
             let folder = e.href.split("/").slice(-2)[0]
 
-            let a = await fetch(`http://127.0.0.1:3000/Spotify/songs/${folder}/info.json`)
+            let a = await fetch(`/Spotify/songs/${folder}/info.json`)
             let response = await a.json();
             console.log(response)
 
@@ -63,7 +63,7 @@ async function displayAlbums() {
 
 async function getSongs(folder) {
     Currfolder = folder;
-    let a = await fetch(`http://127.0.0.1:3000/Spotify/${folder}/`);
+    let a = await fetch(`/Spotify/${folder}/`);
     let response = await a.text();
 
     let div = document.createElement("div")
