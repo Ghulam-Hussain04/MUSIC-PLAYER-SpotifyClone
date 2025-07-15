@@ -56,8 +56,8 @@ Spotify-Clone/<br/>
 ## 🚀 UI 
 
 <p>
-<img src="img/layout.png" width="300px">
-<img src="img/responsive-1.png" width="300px">
-<img src="img/responsive-2.png" width="300px">
+<img src="img/layout.png" width="400px" height="200px">
+<img src="img/responsive-1.png" width="200px" height="300px" >
+<img src="img/responsive-2.png" width="200px" height="300px">
 
 </p>
