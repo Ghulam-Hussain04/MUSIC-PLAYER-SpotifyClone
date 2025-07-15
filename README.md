@@ -31,7 +31,6 @@ A visually appealing and interactive **Spotify Clone** built using **HTML, CSS, 
 - Each song shows title and artist.  
 - Play icon to start the song.
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -43,13 +42,22 @@ A visually appealing and interactive **Spotify Clone** built using **HTML, CSS, 
 ---
 
 ## 📂 Project Structure
-Spotify-Clone/
-├── index.html
-├── utility.css
-├── style.css
-├── script.js
-├── /img/
-│ └── music.svg, play.svg, pause.svg, etc.
-├── /songs/
-│ └── Albums
-        └── your-song-files.mp3
+Spotify-Clone/<br/>
+├── index.html<br/>
+├── utility.css<br/>
+├── style.css<br/>
+├── script.js<br/>
+├── /img/<br/>
+│ └── music.svg, play.svg, pause.svg, etc.<br/>
+├── /songs/<br/>
+│ └── Albums<br/>
+        └── your-song-files.mp3<br/>
+
+## 🚀 UI 
+
+<p>
+<img src="img/layout.png" width="300px">
+<img src="img/responsive-1.png" width="300px">
+<img src="img/responsive-2.png" width="300px">
+
+</p>

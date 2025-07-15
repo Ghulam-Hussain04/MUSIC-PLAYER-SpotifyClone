@@ -57,6 +57,7 @@ async function displayAlbums() {
 
             songs = await getSongs(`songs/${item.currentTarget.dataset.folder}`)
             playMusic(songs[0])
+            hello
         })
     })
 }
